@@ -15,7 +15,7 @@ Two obvious example were built by Nakajima, where you can learn how to use this 
 - Other scripts are not important if you just want to use this package.
 - GOOD LUCK TO U!
 
-## 0x02 References
+## 0x02 Reference
 
 [1]. Nakajima, J. (2011). Time-varying parameter VAR model with stochastic volatility: An overview of methodology and empirical applications. Monetary and Economic Studies 29, 107–142.
 
