@@ -6,6 +6,8 @@ I revised the TVP-VAR-SV model developed by Nakajima(2011), which adapted with M
 
 Two obvious example were built by Nakajima, where you can learn how to use this TVP-VAR-SV packages from.
 
+Via testing, this package may not suitable for Matlab version less than R2020a (Maybe 2018a or less).
+
 ## 0x01 Something u should know:
 
 - 'tvpvar_ex.xlsx' is the dataset used in two examples.
